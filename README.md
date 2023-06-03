@@ -27,13 +27,13 @@ An Android developer looking to solve problems and help other people grow. Curre
 
 ### Donate me if you like ❤
 
-- ## Etherium(ERC20):
+- ## Etherium(ERC20): 
 
-![IMG_20230603_205638_210 1](https://github.com/NimaKhajehpour/NimaKhajehpour/assets/123193175/43bdcb1b-673b-4445-a679-f72329f2f8bf)
+0x55Fd62eC2DB8F3f88d3c5825c68ED4DA2AA1F82c
 
 - ## BTC(COIN):
 
-![IMG_20230603_205635_968 1](https://github.com/NimaKhajehpour/NimaKhajehpour/assets/123193175/0ebedaf1-b67c-4a33-aabb-f9fd7f3ea2fc)
+1KUNrUPMZvcrQV6Eio3bSS1GgpCJn4Jk6A
 
 - PayPal: Coming soon!
 
