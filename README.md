@@ -27,9 +27,9 @@ An Android developer looking to solve problems and help other people grow. Curre
 
 ### Donate me if you like ❤
 
-- ## Etherium(ERC20): 0x55Fd62eC2DB8F3f88d3c5825c68ED4DA2AA1F82c
+- ## USDT(ERC20) :
 
-- ## BTC(COIN): 1KUNrUPMZvcrQV6Eio3bSS1GgpCJn4Jk6A
+0x55Fd62eC2DB8F3f88d3c5825c68ED4DA2AA1F82c
 
 - ## PayPal: Coming soon!
 
