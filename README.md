@@ -25,12 +25,4 @@ An Android developer looking to solve problems and help other people grow. Curre
 - 😄 Pronouns: **He/Him**
 - 💬 Ask me about **Kotlin**, **Java**, **Android**
 
-### Donate me if you like ❤
-
-- ## USDT(ERC20) :
-
-0x55Fd62eC2DB8F3f88d3c5825c68ED4DA2AA1F82c
-
-- ## PayPal: Coming soon!
-
 
