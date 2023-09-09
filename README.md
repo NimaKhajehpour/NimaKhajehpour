@@ -13,9 +13,6 @@ An Android developer looking to solve problems and help other people grow. Curre
  ### Planning To Learn
   
   - Kotlin Multiplatform (Kotlin Compose)
-
- ### Now available:
-  - telegram app suggestion and requests group: [Join](https://t.me/+bwYZeynt5JNkMDdk)
   
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=NimaKhajehpour&show_icons=true&theme=transparent)](https://github.com/NimaKhajehpour)
