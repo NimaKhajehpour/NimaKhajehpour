@@ -1,6 +1,7 @@
 ### Nima Khajehpour
 
 An Android developer looking to solve problems and help other people grow. Currently looking for work.
+recently started to learn FastAPI with python.
 
 ### Experience In
 
@@ -9,20 +10,18 @@ An Android developer looking to solve problems and help other people grow. Curre
   - Java
   - Jetpack Compose
   - Material Design 3
-  
- ### Planning To Learn
-  
-  - Kotlin Multiplatform (Kotlin Compose)
+  - python
+  - FastAPI
   
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=NimaKhajehpour&show_icons=true&theme=transparent)](https://github.com/NimaKhajehpour)
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Kotlin** and **Android**
-- 🌱 I’m currently learning **Android Jetpack Compose** and **Kotlin Multiplatform**
+- 🔭 I’m currently working on **FastAPI** for my android projects
+- 🌱 I’m currently learning **FastApi**
 - 📫 How to reach me: **Nima1038Khajehpour@gmail.com**
 - 😄 Pronouns: **He/Him**
-- 💬 Ask me about **Kotlin**, **Java**, **Android**
+- 💬 Ask me about **Kotlin**, **Java**, **Android**, **Python**
 
 
