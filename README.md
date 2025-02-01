@@ -24,4 +24,7 @@ recently started to learn FastAPI with python.
 - 😄 Pronouns: **He/Him**
 - 💬 Ask me about **Kotlin**, **Java**, **Android**, **Python**
 
+if you like my works consider donating to me with crypto:
+TON ADDRESS
 
+UQCZ_C3c9sJwMzfBUukcSq4zBJd2A05DHywxmlkaYPlZb7BV
