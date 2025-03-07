@@ -1,7 +1,5 @@
 ### Nima Khajehpour
 
-[profile-counter](https://komarev.com/ghpvc/?username=NimaKhajehpour&style=flat-square)
-
 An Android developer looking to solve problems and help other people grow. Currently looking for work.
 recently started to learn FastAPI with python.
 
